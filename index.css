@@ -34,10 +34,10 @@
     --line-height-normal: 1.7;
     --line-height-small: 1.2;
 
-    --black: #f3f5ff;
-    --pink: #3396be;
-    --white: #020f37;
-    --white-1: #000000da;
+    --black: #000;
+    --pink: #ff3258;
+    --white: #f0e9f2;
+    --white-1:  #e5e5e6da;
 
 
     --container-max-width: 1180px;
